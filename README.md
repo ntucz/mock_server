@@ -1,1 +1,2 @@
 # mock_server
+一个模拟响应web客户端响应的服务端，基于nodejs和express，数据保存在mongodb
